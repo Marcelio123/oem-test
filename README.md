@@ -6,6 +6,9 @@
 
 ## How to run
 cd build
+
 cmake ..
+
 make
+
 ./gx_test
